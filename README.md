@@ -50,6 +50,7 @@ NETWORKWALKS-B084-WK3-PASSWORD-CRACKING/
 ├── README.md
 │
 ├── documentation/
+│   ├── Lab WK3.pdf
 │   ├── Lab WK3.docx
 │   └── lab-methodology.md
 │
@@ -66,6 +67,16 @@ Screenshots documenting the practical exercises are organised by activity and in
 
 The original lab document and supporting methodology are available in the `documentation/` directory.
 
+**Lab Documentation:**
+- [Lab WK3 – PDF Guide](documentation/Lab%20WK3.pdf)
+- [Original Lab WK3 – DOCX](documentation/Lab%20WK3.docx)
+- [WK3 Practical Methodology](documentation/lab-methodology.md)
+
+**Screenshot Evidence:**
+- [PM1 – Password Cracking with JTR (Johnny)](screenshots/PM1-JTR/)
+- [PM2 – Password Cracking with Networkwalks Tools](screenshots/PM2-NETWORKWALKS-TOOLS/)
+
+  
 ## Learning Objectives
 
 Through these practical exercises, the lab demonstrates:
