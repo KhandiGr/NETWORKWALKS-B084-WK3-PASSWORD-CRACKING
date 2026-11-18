@@ -92,6 +92,8 @@ The exercises reinforced the relationship between password hashes, dictionary at
 
 ---
 
+**Report Author**: Tishayna McFarlane, Cybersecurity Intern B084
 **Program:** Networkwalks Cybersecurity Internship  
 **Batch:** B084  
 **Module:** WK3 – Password Cracking
+**LinkedIn**: https://www.linkedin.com/in/tishayna-mcfarlane-3417107b/
